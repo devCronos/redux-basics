@@ -26,7 +26,7 @@ class Counter extends Component {
         );
     } 
 }
-// outside class def
+// outside class def d
 const mapStateToProps = (state) => {
     return {
         ctr: state.ctr.counter,
