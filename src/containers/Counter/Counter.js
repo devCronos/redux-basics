@@ -24,7 +24,7 @@ class Counter extends Component {
                 </ul>
             </div>
         );
-    }
+    } 
 }
 // outside class def
 const mapStateToProps = (state) => {
