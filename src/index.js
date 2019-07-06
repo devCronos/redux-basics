@@ -8,6 +8,7 @@ import {Provider} from 'react-redux';
 import thunk from 'redux-thunk';
 // import reducer from './store/reducer';
 import counterReducer from './store/reducers/counter'
+
 import resultReducer from './store/reducers/result'
 
 const rootReducer = combineReducers({
