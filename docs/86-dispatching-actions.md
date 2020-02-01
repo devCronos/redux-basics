@@ -1,5 +1,3 @@
-notes in docs
-
 # Actions
 * Enable us to change the Redux store
 * How do I change the count?
